@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 30, 2019
-##### Evening
+### Day 1: January 30, 2019 - Evening
 
 **Today's Progress**: JS: Array Iteration & Humbled by Scope
 **WDBC Section:** 12 - Arrays
